@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Electric Tractor Info]]></title>
+        <description><![CDATA[Electric Tractor Info]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 16 Jun 2016 15:50:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hi there! We're working on getting things in order to get some great info up here soon.</p>]]></description>
+            <link>undefinedhi-there-were-working-on-getting-things-in-order-to-get-so/index.html</link>
+            <guid isPermaLink="false">7dcbade0-be70-4b40-aabf-a08d5eddc40b</guid>
+            <pubDate>Thu, 16 Jun 2016 15:50:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
