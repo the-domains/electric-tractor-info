@@ -1,6 +1,6 @@
 name: Electric Tractor Info
 favicon: null
-layout_spectrum: 0.75154
+layout_spectrum: 0.2423
 typography_spectrum: 0.81611
 title: Electric Tractor Info
 cta:
@@ -23,7 +23,7 @@ color:
     - '#544a48'
     - '#fcd72d'
   brandStrength: 0.6875
-  lightness: 1
+  lightness: 0.6875
   saturation: 0.5
   rhythmicContrast: 0.75
 purpose: []
