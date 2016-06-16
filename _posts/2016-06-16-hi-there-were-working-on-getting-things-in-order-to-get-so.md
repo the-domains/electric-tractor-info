@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Hi there! We're working on getting things in order to get some great info up
   here soon.
-datePublished: '2016-06-16T18:36:35.106Z'
-dateModified: '2016-06-16T18:36:17.910Z'
+datePublished: '2016-06-16T18:41:00.589Z'
+dateModified: '2016-06-16T18:40:39.492Z'
 title: ''
 author: []
 sourcePath: >-
@@ -20,7 +20,7 @@ url: hi-there-were-working-on-getting-things-in-order-to-get-so/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/052006fa-351c-4b46-bf44-a6cc891e42f6.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6031fe96-1abc-41eb-afb8-4da35d958353.png)
 
 Hi there! We're working on getting things in order to get some great info up here soon.
 
