@@ -1,20 +1,4 @@
-name: Electric Tractor Info
-favicon: null
-layout_spectrum: 0.00103
 typography_spectrum: 0.81611
-title: Electric Tractor Info
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -26,4 +10,22 @@ color:
   lightness: 0.5
   saturation: 0
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.00103
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  email: info@electrictractor.info
+name: Electric Tractor Info
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Electric Tractor Info
 purpose: []
